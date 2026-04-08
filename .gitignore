@@ -1,0 +1,4 @@
+echo "data\processed_features" >> .gitignore
+echo "outputs/" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo "cache/" >> .gitignore
